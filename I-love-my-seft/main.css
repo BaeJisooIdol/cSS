@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+header {
+    background-color: yellow;
+}
+
+nav {
+    background-color: red;
+    width: 80%;
+    display: inline-block;
+}
+
+main {
+    background-color: rgb(245, 116, 138);
+    font-size: 50px;
+}
+
+li {
+    width: 60px;
+    margin: 0 40px;
+    display: inline-block;
+}
+
+footer {
+    background-color: green;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: yellowgreen;
+}
+
+p {
+    line-height: 50px;
+}
+
+section {
+    display: flex;
+}
+
+div {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 10px 15px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 200px;
+}
